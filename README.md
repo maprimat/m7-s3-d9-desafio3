@@ -1,4 +1,6 @@
-# m7-d3-firebase
+# Desafio 3 | Firebase (I)
+
+Desafio del Módulo 7 | Sección 3 | Día 9 | del curso _**Desarrollo de aplicaciones FRONT-END TRAINEE V2.0**_
 
 ## Project setup
 ```
@@ -21,4 +23,8 @@ npm run lint
 ```
 
 ### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+See [Configuration Reference](https://cli.vuejs.org/config/)
+
+## Authors
+
+- [@maprimat](https://www.github.com/maprimat)
